@@ -1,0 +1,6 @@
+Pratos: Parmegiana de frango e carne
+
+
+Opção de entrega e retirada 
+
+Retorno de informações para o usuario (numero de vendas)
